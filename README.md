@@ -48,7 +48,7 @@ This collection includes tools I’ve built. Each tool is hosted on its own GitH
 ---
 
 ## Contributions
-- **Feedback**: Suggestions or bug reports? Send me an email at 'tojitiktok@proton.me'.
+- **Feedback**: Suggestions or bug reports? Send me an email at 'so1citix.zone242@passinbox.com'.
 - **Collaboration**: Feel free to fork and submit pull requests with improvements!
 - **New Tools**: I’ll update this README as I develop more tools—stay tuned!
 
